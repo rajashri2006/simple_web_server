@@ -134,6 +134,8 @@ httpd.serve_forever()
 # OUTPUT:
 ![devise new properties](https://github.com/user-attachments/assets/f8853884-d3ce-4c4e-95ea-8bd606e970a3)
 
+![new terminal](https://github.com/user-attachments/assets/1b825d8a-6784-4a52-9cab-674ca1384deb)
+
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
